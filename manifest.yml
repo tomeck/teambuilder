@@ -1,0 +1,8 @@
+---
+applications:
+- name: teambuilder
+  host: tb-teck
+  memory: 1024M
+  path: .
+  instances: 1
+  domain: mybluemix.net
